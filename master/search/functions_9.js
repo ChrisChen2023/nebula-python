@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['open_146',['open',['../df/d91/classnebula3_1_1gclient_1_1net_1_1Connection_1_1Connection.html#a0e80bc37bfd49bf74aa3a6fd4f1760b7',1,'nebula3.gclient.net.Connection.Connection.open()'],['../d6/dcc/classnebula3_1_1mclient_1_1MetaClient.html#a6a7ca114eeea12e38e719a070358ae14',1,'nebula3.mclient.MetaClient.open()']]],
-  ['open_5fssl_147',['open_SSL',['../df/d91/classnebula3_1_1gclient_1_1net_1_1Connection_1_1Connection.html#a5731007ce223f2d0510e0a46022dacdc',1,'nebula3::gclient::net::Connection::Connection']]]
+  ['open_0',['open',['../df/d91/classnebula3_1_1gclient_1_1net_1_1Connection_1_1Connection.html#ac7c488e8f0f8fa8c9bf48bbd77b02f44',1,'nebula3.gclient.net.Connection.Connection.open()'],['../d6/dcc/classnebula3_1_1mclient_1_1MetaClient.html#a1b1cd51dff32421e012514f2b0123abd',1,'nebula3.mclient.MetaClient.open()']]],
+  ['open_5fssl_1',['open_SSL',['../df/d91/classnebula3_1_1gclient_1_1net_1_1Connection_1_1Connection.html#abe5dc7577bd7283273c2b22fb03909d1',1,'nebula3::gclient::net::Connection::Connection']]]
 ];
